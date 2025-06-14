@@ -35,7 +35,7 @@ class Horario:
 
 # Crear estudiantes independientemente del curso
 estudiante1 = Estudiante("Juan")
-estudiante2 = Estudiante("Ana")
+estudiante2 = Estudiante("luisa")
 
 # Crear cursos, materias y horarios
 curso_lit = Curso("Literatura", "Teoría Literaria")
